@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 # Hello, My name is Mohammad Hossein!
 
 I am currently a second-year 𝐌𝐒.𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [Isfahan University of Technology](http://english.iut.ac.ir/) where I am a member of the Network on Chip Lab (NOC), Supervised by [Dr. Shadrokh Samavi](https://scholar.google.com/citations?hl=en&user=Hj3vz2YAAAAJ&view_op=list_works&sortby=pubdate) and Advised by [Dr. Nader Karimi](https://scholar.google.com/citations?user=mZGNr2QAAAAJ&hl=en). my research involves machine learning, deep learning, and neural networks.
