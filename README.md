@@ -44,7 +44,7 @@ Prior to MS.c, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Departm
 | Social Networks  | 🔗 Link          |
 |-----------|--------------------|
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | givkashi@gmail.com |
-| 🌐 Personal Page 👉 | [givkashi.github.io](https://givkashi.github.io/) |
+| 🌐 Personal Page 👉 | [givkashi.ece.iut](https://givkashi.ece.iut.ac.ir/) |
 | [Linkedin](https://www.linkedin.com/in/givkashi/)  | [Skype](https://join.skype.com/invite/cCaS7EGvaDcp)  |
 
 
