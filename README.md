@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Hello, My name is Mohammad Hossein!
 
-I am currently a second-year 𝐌𝐒.𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [Isfahan University of Technology](http://english.iut.ac.ir/) where I am a master student. my research involves machine learning, deep learning, and neural networks.
+I am currently a second-year 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [Isfahan University of Technology](http://english.iut.ac.ir/) where I am a master student. my research involves machine learning, deep learning, and neural networks.
 
-Prior to MS.c, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Department of Electrical and Computer Engineering, [University of Kashan](https://kashanu.ac.ir/en), in August 2020. 
+Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Department of Electrical and Computer Engineering, [University of Kashan](https://kashanu.ac.ir/en), in August 2020. 
 
 
 
