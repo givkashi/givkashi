@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![visitors](https://visitor-badge.glitch.me/badge?page_id=givkashi/givkashi)](https://github.com/givkashi)
 
 <!--
 **givkashi/givkashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,5 +56,5 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 
 
 <!--
-**alikarimi120/alikarimi120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
