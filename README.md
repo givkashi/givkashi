@@ -1,20 +1,5 @@
-### Hi there 👋 [![visitors](https://visitor-badge.glitch.me/badge?page_id=givkashi/givkashi)](https://github.com/givkashi)
 
-<!--
-**givkashi/givkashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello, My name is Mohammad Hossein!
+<h1 align="center">Hi 👋, I'm Mohammad Hossein</h1>
 <h3 align="center">Enthusiastic about Deep Learning and any Data related topic</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=givkashi&label=Profile%20views&color=0e75b6&style=flat" alt="givkashi" /> </p>
 I am currently a second-year 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [Isfahan University of Technology](http://english.iut.ac.ir/) where I am a master student. my research involves computer vision, deep learning, and neural networks.
@@ -28,6 +13,9 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 - Machine Learning, Deep Learning
 - Computer Vision, Image Processing
 - Bio-medical Image Processing
+
+<h3 align="left">Main Programming-Languages:</h3>
+<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  </p>
 
 ## ML/DL
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
