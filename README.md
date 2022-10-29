@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hossein</h1>
 <h3 align="center">Enthusiastic about Deep Learning and any Data related topic</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=givkashi&label=Profile%20views&color=0e75b6&style=flat" alt="givkashi" /> </p>
-I am currently a second-year 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [Isfahan University of Technology](http://english.iut.ac.ir/) where I am a master student. my research involves computer vision, deep learning, and neural networks.
+
+I am currently a second-year 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [Isfahan University of Technology](http://english.iut.ac.ir), where I am a master student. My research involves computer vision, deep learning, and neural networks.
 
 Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Department of Electrical and Computer Engineering, [University of Kashan](https://kashanu.ac.ir/en), in August 2020. 
 
