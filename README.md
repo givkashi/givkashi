@@ -44,11 +44,11 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 |-----------|--------------------|
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | givkashi@gmail.com |
 | 🌐 Personal Page 👉 | [givkashi.ece.iut](https://givkashi.ece.iut.ac.ir/) |
-| [Linkedin](https://www.linkedin.com/in/givkashi/)  | [Skype](https://join.skype.com/invite/cCaS7EGvaDcp)  |
+| 🌐 Google Scholar 👉  | [google scholar](https://scholar.google.com/citations?user=IKxa1isAAAAJ&hl=en&oi=ao)  |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/givkashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parhamzm/" height="30" width="40" /></a>
+<a href="https://github.com/givkashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/givkashi/" height="30" width="40" /></a>
 <a href="https://kaggle.com/givkashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amir98msbh" height="30" width="40" /></a>
 </p>
 
