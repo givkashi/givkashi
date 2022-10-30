@@ -48,7 +48,7 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/givkashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/givkashi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/givkashi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/givkashi/" height="30" width="40" /></a>
 <a href="https://kaggle.com/givkashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amir98msbh" height="30" width="40" /></a>
 </p>
 
