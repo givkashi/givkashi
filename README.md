@@ -50,7 +50,7 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 | Social Networks  | 🔗 Link          |
 |-----------|--------------------|
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | givkashi@gmail.com |
-| 🌐 Personal Page 👉 | [givkashi.ece.iut](https://givkashi.ece.iut.ac.ir/) |
+| 🌐 ResearchGate 👉 | [ResearchGate](https://www.researchgate.net/profile/Mohammad-Hossein-Givkashi) |
 | 🌐 Google Scholar 👉  | [google scholar](https://scholar.google.com/citations?user=IKxa1isAAAAJ&hl=en&oi=ao)  |
 
 <h3 align="left">Connect with me:</h3>
