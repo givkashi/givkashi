@@ -13,7 +13,7 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 ## My main research interests
 - Machine Learning, Deep Learning
 - Computer Vision, Image Processing
-- Bio-medical Image Processing
+- NLP
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
@@ -51,7 +51,7 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 |-----------|--------------------|
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | givkashi@gmail.com |
 | 🌐 ResearchGate 👉 | [ResearchGate](https://www.researchgate.net/profile/Mohammad-Hossein-Givkashi) |
-| 🌐 Google Scholar 👉  | [google scholar](https://scholar.google.com/citations?user=IKxa1isAAAAJ&hl=en&oi=ao)  |
+| 🌐 Google Scholar 👉  | [Google Scholar](https://scholar.google.com/citations?user=IKxa1isAAAAJ&hl=en&oi=ao)  |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
