@@ -65,6 +65,11 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givkashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/1" alt="Recent Article 1"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/2" alt="Recent Article 2"></a> <br>
+
 <!--<p><img src="https://github-readme-stats.vercel.app/api?username=givkashi&amp;show_icons=true" alt="GitHub Stats"></p>-->
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
@@ -74,11 +79,28 @@ Kaggle Notebook Expert.
 
 ---
 
-### [Object Detection Flask Application](https://github.com/givkashi/Object-Detection-Yolo-Flask)
+### [Object Detection Flask Application](https://github.com/givkashi/Object-Detection-Yolo-Flask)<a href="https://medium.com/@givkashi/building-a-real-time-object-detection-app-with-flask-and-yolo-afde97b62927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_giaabaoo_" height="30" width="40" /></a>
 
 This project is a Flask-based web application for object detection using the YOLO (You Only Look Once) model. The application can process images and video streams, detect objects and display the results.
 
-<img src="https://github.com/givkashi/Object-Detection-Yolo-Flask/blob/main/img1.jpg" width="300" height="400"/>
+<img src="https://github.com/givkashi/Object-Detection-Yolo-Flask/blob/main/img1.jpg" width="30%" height="50%"/>
+
+
+### [Chatbot with Streamlit, LangChain, and SQLite](https://github.com/givkashi/Chatbot-Langchain-Streamlite/tree/main)<a href="https://medium.com/@givkashi/building-an-intelligent-chatbot-with-streamlit-langchain-and-sqlite-70236e0e9e76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_giaabaoo_" height="30" width="40" /></a>
+
+This project demonstrates how to build an intelligent chatbot using Streamlit, LangChain, and SQLite. The chatbot provides real-time responses and allows users to manage and retrieve past conversations.
+<img src="https://github.com/givkashi/Chatbot-Langchain-Streamlite/blob/main/img.png" width="70%" height="70%"/>
+
+
+### [Text Correction Application with LangChain, LangGraph, and LLM](https://github.com/givkashi/Text-Correction-Application-with-LangGraph)<a href="https://medium.com/@givkashi/text-correction-application-with-langchain-langgraph-and-llm-bbd0ad006160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_giaabaoo_" height="30" width="40" /></a>
+
+This project demonstrates the power of combining LangChain, LangGraph, and ChatOpenAI to automate and streamline the process of text correction and enhancement. 
+
+### [Exploring LLM Models with Hugging Face and Langchain Library](https://www.kaggle.com/code/givkashi/llm-models-with-hugging-face-and-langchain-library)<a href="https://medium.com/@givkashi/exploring-llm-models-with-hugging-face-and-langchain-library-on-google-colab-a-comprehensive-guide-4994e7ed5c06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_giaabaoo_" height="30" width="40" /></a>
+It is walked through the process of testing different language models using the Langchain library. 
+
+<img src="https://github.com/givkashi/LLM-Models-with-Huggingface-and-Langchain-Library/blob/main/img.png" width="70%" height="70%"/>
+
 
 ---
 <!--
