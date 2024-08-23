@@ -65,9 +65,22 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givkashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=givkashi&amp;show_icons=true" alt="GitHub Stats"></p>
+<!--<p><img src="https://github-readme-stats.vercel.app/api?username=givkashi&amp;show_icons=true" alt="GitHub Stats"></p>-->
 
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
 
+### [Kaggle Projects](https://kaggle.com/givkashi)
+Kaggle Notebook Expert.
+
+---
+
+### [Object Detection Flask Application](https://github.com/givkashi/Object-Detection-Yolo-Flask)
+
+This project is a Flask-based web application for object detection using the YOLO (You Only Look Once) model. The application can process images and video streams, detect objects and display the results.
+
+<img src="https://github.com/givkashi/Object-Detection-Yolo-Flask/blob/main/img1.jpg" width="300" height="400"/>
+
+---
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
