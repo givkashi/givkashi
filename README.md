@@ -65,10 +65,11 @@ Prior to MS.c, I finished my 𝐁.𝐒𝐜 in Computer Engineering at the Depart
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givkashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/0" alt="Recent Article 0"></a>
+### 📝 My Blog Post in Medium
+### [Medium Profile](https://medium.com/@givkashi)
+<!--- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/0" alt="Recent Article 0"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/1" alt="Recent Article 1"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/2" alt="Recent Article 2"></a> <br>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@givkashi/2" alt="Recent Article 2"></a> <br>-->
 
 <!--<p><img src="https://github-readme-stats.vercel.app/api?username=givkashi&amp;show_icons=true" alt="GitHub Stats"></p>-->
 
